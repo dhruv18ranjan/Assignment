@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Assignment/static/css/main.5ba062cc.css",
+    "main.js": "/Assignment/static/js/main.aeb77006.js",
+    "static/media/webMoney.png": "/Assignment/static/media/webMoney.95314e512a877d4eef39.png",
+    "static/media/2.png": "/Assignment/static/media/2.03ffefbc5c9d601d5cb6.png",
+    "static/media/qiwi.png": "/Assignment/static/media/qiwi.e79f5e702616bede6bf6.png",
+    "static/media/mastercard.png": "/Assignment/static/media/mastercard.5cc2a2f8a6f24591ee67.png",
+    "static/media/logo.png": "/Assignment/static/media/logo.7746040873afcb9f4067.png",
+    "static/media/send.png": "/Assignment/static/media/send.7a18c44bad1db3202ef1.png",
+    "static/media/recieve.png": "/Assignment/static/media/recieve.77015beb7d977f72ec40.png",
+    "static/media/1.png": "/Assignment/static/media/1.eae03c9bb612706cf449.png",
+    "static/media/paypal.webp": "/Assignment/static/media/paypal.19c95fc22e1e59af8e26.webp",
+    "index.html": "/Assignment/index.html",
+    "main.5ba062cc.css.map": "/Assignment/static/css/main.5ba062cc.css.map",
+    "main.aeb77006.js.map": "/Assignment/static/js/main.aeb77006.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ba062cc.css",
+    "static/js/main.aeb77006.js"
+  ]
+}
