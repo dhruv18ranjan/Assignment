@@ -1,0 +1,26 @@
+.transactionDiv{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+.nav2 span{
+    margin-left: 70px;
+    font-size: 12px;
+}
+.tableContainer{
+    display: flex;
+    flex-direction: column;
+}
+.transactionNav{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.infoDiv{
+    margin-top:12px;
+    border-bottom: 1px solid rgb(247, 238, 238);
+}
+
+.transactioninfo{
+    box-shadow: 2px 2px 2px 2px whitesmoke;
+}

@@ -1,0 +1,42 @@
+
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width:880px;
+    margin-top: 20px;
+    height: 47px;
+    border-bottom: 1px solid rgb(218, 212, 212);
+}
+.img{
+    border-radius: 30%;
+    cursor: pointer;
+}
+.bellIcon{
+    height: 20px;;
+    width: 20px;
+}
+.rightNav{
+    display: flex;
+    flex-direction: row;
+}
+.bellDiv{
+    align-items: center;
+    padding: 10px;
+    margin-right: 20px;
+    cursor: pointer;
+}
+.bellDiv:after{
+    content:'';
+    font-size:6px;
+    color: #fff;
+    background: rgb(255, 255, 0);
+    border-radius:50%;
+    padding: 0 5px;
+    position:relative;
+    left:-10px;
+    top:-12px;
+    opacity:1;
+    height: 5px;
+    width: 5px;
+}

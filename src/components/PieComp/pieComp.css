@@ -1,0 +1,18 @@
+.pie{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+.pie h4{
+    margin-left: 20px;
+}
+.centerInfo{
+    position: absolute;
+    top:140px;
+    left: 80px;
+}
+.centerInfo span:nth-child(2){
+    font-size: 24px;
+    letter-spacing: 2px;
+}
+

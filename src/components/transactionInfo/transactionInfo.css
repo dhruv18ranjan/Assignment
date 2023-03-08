@@ -1,0 +1,14 @@
+.transactionInfo{
+    display:  flex;
+    flex-direction: row;
+}
+.info{
+    margin-right: 132px;
+    width: 210px;
+    height: fit-content;
+    font-size: 14px;
+}
+.imageContainer{
+    height: 25px;
+    width: 25px;
+}

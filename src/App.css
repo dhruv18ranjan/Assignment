@@ -1,0 +1,20 @@
+.App {
+  display: flex;
+  flex-direction: row;  
+}
+
+.sidebar{
+  flex: 1;
+  background-color: #4106b7;
+  width: auto;
+  height: 100vh;
+  border-top-right-radius: 30px;
+  border-bottom-right-radius: 30px;
+  margin-right: 80px;
+  z-index: 0;
+}
+.main{
+  flex: 6;
+  width: auto;
+  height: 100vh;
+}

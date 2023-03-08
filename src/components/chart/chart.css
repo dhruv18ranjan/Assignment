@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300&display=swap');
+
+.chart {
+    width: 880px;
+}
+
+.stats {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 14px;
+}
+
+.stats ul {
+    display: flex;
+}
+
+.stats ul li {
+    margin-left: 25px;
+    list-style: none;
+    position: relative;
+}
+
+.stats ul li:first-child::before
+{
+    content: "";
+    display: block;
+    position: absolute;
+    top: 8px;
+    left: -20px;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: turquoise;
+    z-index: -1;
+}
+.stats ul li:nth-child(3)::before
+{
+    content: "";
+    display: block;
+    position: absolute;
+    top: 8px;
+    left: -20px;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: #4106b7;
+    z-index: -1;
+}
+.option{
+    width: 95px;
+    height: 25px;
+    border: 1px solid rgb(239, 232, 232);
+    font-family:"Poppins" ;
+    box-shadow: 1px 1px 1px 1px rgb(239, 232, 232) ;
+
+}
+.chartDiv{
+    display: flex;
+    flex-direction: row;
+}
+
+.chartright P{
+    font-size: 12px;
+    margin-bottom: 18px;
+    color: rgb(155, 155, 155) ;
+}
